@@ -1,0 +1,20 @@
+[
+  {
+    "repository":  "device_xiaomi_mido",
+    "target_path": "device/xiaomi/mido",
+    "branch": "oreo.1",
+    "remote": "bootleg-dev"
+  },
+  {
+    "repository":  "merothh/bootleg_kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch": "oreo.1",
+    "remote": "github"
+  },
+  {
+    "repository":   "vendor_xiaomi_mido",
+    "target_path":  "vendor/xiaomi/mido",
+    "branch": "oreo.1",
+    "remote": "bootleg-dev"
+  }
+]
